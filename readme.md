@@ -9,7 +9,7 @@
 
 - NotionのAPIキーの発行
 - Python 3.8 ↑　
-- notion_client ライブラリ
+- notion_client ライブラリのインストール
 
 <br/><br/>
 
