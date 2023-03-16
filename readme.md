@@ -11,6 +11,11 @@
 <br/><br/>
 
 # 手順
+<br/>
+いくつかの設定をしてあげる必要がありますが、
+写真と共に詳細に説明しておきましたので頑張っていきましょう！
+<br/><br/>
+
 ## Syukujitsu.netから祝日のデータをダウンロード
 ![syukujitsu.net](img/syukujitsu.png)
 <br/>
