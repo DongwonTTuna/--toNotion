@@ -55,7 +55,8 @@ Name に 'For Holiday'を入力し、<br/>オプションとして workspace を
 
 <br/><br/><br/>
 
-##　データベースのリンクの取得
+## データベースのリンクの取得
+
 <br/>
 ![DBLink](img/viewLink.png)
 
