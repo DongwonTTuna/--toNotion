@@ -5,7 +5,7 @@
 <br/>
 <br/><br/>
 
-ダウンロード : [<img src="img/download.png" width="20"/>](https://github.com/DongwonTTuna/HolidayToNotion/releases/download/publish/Holiday2Notion.zip)
+ダウンロード : [<img src="img/download.png" width="60"/>](https://github.com/DongwonTTuna/HolidayToNotion/releases/download/publish/Holiday2Notion.zip)
 <br/><br/><br/>
 
 #### 実行にあたって必要なもの
