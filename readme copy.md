@@ -38,7 +38,24 @@
 
 https://www.notion.so/my-integrations に接続します。
 
-！[APITotal](img/APIkeytotal.png)
+![createAPI](img/createNew.png)
+<br/>
+<br/>
+<br/>
+Create New Integration をクリックします。
+<br/>
+<br/>
+<br/>
+![toSubmit](img/ToSubmit.png)
+<br/><br/><br/>
+Name に 'For Holiday'を入力し、<br/>オプションとして workspace を選択してあげます。
+<br/><br/><br/>
+
+![APIkey](img/apikey.png)
+<br/><br/><br/>
+
+#### copy ボタンを押して、`API_KEY`を他の誰かが見れない<br/>安全なところに貼り付けて保存しておきましょう。
+
 <br/><br/><br/>
 
 ## データベースのリンクの取得
@@ -62,7 +79,13 @@ https://www.notion.so/my-integrations に接続します。
 <br/>
 <br/>
 
-![permission](img/permission.png)
+![3point](img/3point.png)
+<br/><br/><br/>
+Notion プログラムの一番右上にある...を押します。
+<br/><br/><br/>
+![toShare](img/toShare.png)
+<br/><br/><br/>
+「はい」を押して、次のステップへ移行します。
 <br/><br/><br/>
 
 ## Notion の設定
