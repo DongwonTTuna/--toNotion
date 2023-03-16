@@ -76,7 +76,7 @@ https://www.notion.so/my-integrations に接続します。
 
 ![Calendar](img/selectLayout.png)
 <br/><br/><br/>
-カレンダービューの右の方にある...をクリックします。
+カレンダービューの右の方にある...をクリックしてレイアウトを押します。
 <br/><br/><br/>
 
 ![Calendar2](img/tableview.png)
