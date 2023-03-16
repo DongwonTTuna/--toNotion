@@ -28,7 +28,7 @@
 
 ![syukujitsu.net](img/syukujitsu.png)
 <br/><br/><br/>
-ダウンロードしたファイルを csv フォルダの中に入れておきます。
+ダウンロードしたファイルを `csv フォルダ`の中に入れておきます。
 <br/><br/><br/>
 
 ## NotionAPI キーの発行
