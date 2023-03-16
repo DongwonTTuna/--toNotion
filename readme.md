@@ -38,7 +38,8 @@
 
 https://www.notion.so/my-integrations に接続します。
 
-！[APITotal](img/APIkeytotal.png)
+![APITotal](img/APIkeytotal.png)
+
 <br/><br/><br/>
 
 ## データベースのリンクの取得
