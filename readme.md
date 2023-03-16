@@ -23,7 +23,7 @@
 ## Syukujitsu.net から祝日のデータをダウンロード
 <br/>
 
-#### https://shukujitsu.net/　に接続します。
+#### https://shukujitsu.net/ に接続します。
 <br/>
 
 ![syukujitsu.net](img/syukujitsu.png)
