@@ -118,7 +118,7 @@ Notion プログラムの一番右上にある...を押します。
 ## 実行！
 
 ```sh
-python [fetchNotionまでのパス]/fetchNotion.py
+python [Holiday2Notionまでのパス]/Holiday2Notion.py
 ```
 
 を実行し、先に保存しておいた API KEY とデータベースのリンクを貼り付けてあげます。
