@@ -6,6 +6,7 @@
 <br/><br/>
 
 #### 実行にあたって必要なもの
+
 - NotionのAPIキーの発行
 - Python 3.8 ↑　
 - notion_client ライブラリ
